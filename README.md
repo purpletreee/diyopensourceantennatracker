@@ -3,7 +3,8 @@ diy opensource antenna tracker for RC airplanes / drones ...
 
 Still in progress
 
-code: 
+code: click on RAW to copy
+
 
 #include <Servo.h>
 //Coordinates of ground station
